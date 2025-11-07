@@ -127,14 +127,14 @@
 
 
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianmtztrev&show_icons=true&locale=en" alt="adrianmtztrev" />
+</p>
+
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmtztrev&" alt="adrianmtztrev" />
 </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmtztrev&show_icons=true&locale=en&layout=compact" alt="adrianmtztrev" />
-</p>
-
-<p>
 </p>
