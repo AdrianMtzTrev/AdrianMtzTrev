@@ -14,7 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c&theme=light)](https://github.com/media-lib/c_lib/blob/master/c/Kernighan%2C%20Ritchie%20-%20The%20C%20Programming%20Language%2C%202nd%20edition.pdf)
 [![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://github.com/media-lib/c_lib/blob/master/cpp/Bjarne%20Stroustrup%20-%20The%20C%2B%2B%20Programming%20Language%204th%20Edition%20-%202013.pdf)
-[![My Skills](https://skillicons.dev/icons?i=solidity&theme=light)](https://external.ink?to=/soliditylang.org/)
+[![My Skills](https://skillicons.dev/icons?i=solidity&theme=light)](https://www.soliditylang.org/)
 [![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/)
 [![My Skills](https://skillicons.dev/icons?i=php&theme=light)](https://www.php.net/)
