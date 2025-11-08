@@ -7,9 +7,11 @@
 <h3 align="left">Main skills</h3>
 <p align="left">
 
+<base target="_blank">
 <!--
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,solidity,python,java,php,ts,js,swift,kotlin&theme=light)](https://www.c-language.org/)
 -->
+
 [![My Skills](https://skillicons.dev/icons?i=c&theme=light)](https://github.com/media-lib/c_lib/blob/master/c/Kernighan%2C%20Ritchie%20-%20The%20C%20Programming%20Language%2C%202nd%20edition.pdf)
 [![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://github.com/media-lib/c_lib/blob/master/cpp/Bjarne%20Stroustrup%20-%20The%20C%2B%2B%20Programming%20Language%204th%20Edition%20-%202013.pdf)
 [![My Skills](https://skillicons.dev/icons?i=solidity&theme=light)](https://www.soliditylang.org/)
