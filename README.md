@@ -20,12 +20,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://en.wikipedia.org/wiki/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=swift&theme=light)](https://www.swift.org/)
 [![My Skills](https://skillicons.dev/icons?i=kotlin&theme=light)](https://kotlinlang.org/)
-
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,electron,threejs,wasm&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb,cassandra,postgres&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=md,figma,regex,vim,neovim&theme=light)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://en.wikipedia.org/wiki/Linux)
 [![My Skills](https://skillicons.dev/icons?i=debian&theme=light)](https://www.debian.org/)
 [![My Skills](https://skillicons.dev/icons?i=arch&theme=light)](https://archlinux.org/)
