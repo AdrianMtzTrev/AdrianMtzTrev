@@ -29,7 +29,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://en.wikipedia.org/wiki/Linux)
 [![My Skills](https://skillicons.dev/icons?i=debian&theme=light)](https://www.debian.org/)
 [![My Skills](https://skillicons.dev/icons?i=arch&theme=light)](https://archlinux.org/)
-[![My Skills](https://skillicons.dev/icons?i=linux,debian,arch,windows,&theme=light)](Fuck-Microsoft)
+[![My Skills](https://skillicons.dev/icons?i=windows,&theme=light)](Fuck-Microsoft)
 
 </p>
 <p align="center">
